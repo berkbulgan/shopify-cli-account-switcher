@@ -1,7 +1,4 @@
 node_modules/
-src/
-*.ts
-tsconfig.json
 .git/
 .github/
 *.tgz
