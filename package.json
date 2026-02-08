@@ -1,6 +1,7 @@
 {
   "name": "shopify-account-switcher",
   "version": "1.0.0",
+  "author": "Berk Bulgan",
   "description": "Quickly switch between multiple Shopify CLI accounts without logout/login",
   "main": "dist/index.js",
   "bin": {
@@ -15,11 +16,10 @@
     "auth",
     "session"
   ],
-  "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/shopify-cli-account-switcher"
+    "url": "https://github.com/berkbulgan/shopify-cli-account-switcher"
   },
   "files": [
     "dist",
